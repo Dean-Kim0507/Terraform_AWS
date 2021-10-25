@@ -1,2 +1,3 @@
 tf-keypair.pem
 .terraform/
+terraform.*

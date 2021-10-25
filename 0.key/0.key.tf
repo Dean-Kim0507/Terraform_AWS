@@ -1,7 +1,3 @@
-#tf init - plugin download
-#tf plan - code 검토
-#tf apply - 검토 문제없으니 심사 meta argument -> aws key pair로 전송
-# Configure the AWS Provider
 provider "aws" {
   region = "ca-central-1"
 }
